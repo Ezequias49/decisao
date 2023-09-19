@@ -1,2 +1,2 @@
-# repeticao
-atividades de repetição
+# decicao
+atividades de decição
