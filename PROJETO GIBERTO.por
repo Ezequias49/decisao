@@ -13,6 +13,11 @@ programa
         {
             escreva("Digite o numero de processos : ")
             leia(num_processos)
+            se (num_processos > 15)
+            {
+                escreva("Número de processos não pode exceder 15!")
+                retorne
+            }
             
             para (inteiro i = 0; i < num_processos; i++)
             {
